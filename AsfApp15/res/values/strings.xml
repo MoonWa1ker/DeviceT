@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AsfApp15</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">MYSection 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="myInput">blaText</string>
+    <string name="dwstePasswordString">Dwste Password</string>
+    <string name="informationString">Edw einai oi plirofories</string>
+    <string name="responseString">Here goes the response!</string>
+
+</resources>
